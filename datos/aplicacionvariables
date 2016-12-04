@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Archivo de configuración de índice de seguridad.</comment>
+<entry key="badenesB">4</entry>
+<entry key="badenesA">4</entry>
+<entry key="velocidadB">10</entry>
+<entry key="velocidadA">8</entry>
+<entry key="ratioaccidentesB">6</entry>
+<entry key="policiaB">8</entry>
+<entry key="ratioaccidentesA">6</entry>
+<entry key="policiaA">8</entry>
+<entry key="radarB">6</entry>
+<entry key="radarA">6</entry>
+<entry key="conservacionedificiosB">6</entry>
+<entry key="conservacionedificiosA">6</entry>
+<entry key="superficielisaB">8</entry>
+<entry key="superficielisaA">0</entry>
+<entry key="criminalidadB">8</entry>
+<entry key="criminalidadA">8</entry>
+<entry key="niveleconomicoB">6</entry>
+<entry key="niveleconomicoA">6</entry>
+<entry key="anchocalleB">18</entry>
+<entry key="anchocalleA">24</entry>
+<entry key="aparcamientoaceraB">0</entry>
+<entry key="iluminacionB">8</entry>
+<entry key="aparcamientoaceraA">12</entry>
+<entry key="iluminacionA">8</entry>
+<entry key="superficieadoquinesB">0</entry>
+<entry key="superficieadoquinesA">2</entry>
+<entry key="pasopeatonesB">0</entry>
+<entry key="pasopeatonesA">30</entry>
+<entry key="semaforosB">28</entry>
+<entry key="semaforosA">32</entry>
+<entry key="confortB">4</entry>
+<entry key="confortA">6</entry>
+<entry key="carrilbiciB">18</entry>
+<entry key="carrilbiciA">0</entry>
+<entry key="pendienteB">8</entry>
+<entry key="pendienteA">4</entry>
+<entry key="residencialB">12</entry>
+<entry key="residencialA">12</entry>
+<entry key="callepeatonalB">0</entry>
+<entry key="callepeatonalA">18</entry>
+<entry key="aceraB">0</entry>
+<entry key="separacionaceraB">74</entry>
+<entry key="aceraA">76</entry>
+<entry key="separacionaceraA">0</entry>
+<entry key="densidadtraficoB">8</entry>
+<entry key="densidadtraficoA">8</entry>
+<entry key="totalpuntosB">248</entry>
+<entry key="totalpuntosA">288</entry>
+</properties>
